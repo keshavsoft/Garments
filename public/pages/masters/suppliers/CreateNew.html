@@ -1142,7 +1142,8 @@
                       </div>
                       <div class="button-row d-flex mt-4">
                         <button class="btn bg-gradient-light mb-0 js-btn-prev" type="button" title="Prev">Prev</button>
-                        <button class="btn btn-success ms-auto mb-0" type="button" title="Send">Save</button>
+                        <button class="btn btn-success ms-auto mb-0" type="button" title="Send"
+                          id="SaveButtonId">Save</button>
                       </div>
                     </div>
                   </div>
@@ -1300,6 +1301,20 @@
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="../../../assets/js/argon-dashboard.min.js?v=2.0.5"></script>
+
+  <script>
+    let jFSaveButtonClick = () => {
+    //  window.location.
+        window.location.href = "ShowAll.html";
+    };
+
+    let jFLoad = () => {
+      let jVarLocalSaveButtonId = document.getElementById("SaveButtonId");
+      jVarLocalSaveButtonId.addEventListener("click", jFSaveButtonClick);
+    };
+
+    jFLoad();
+  </script>
 </body>
 
 </html>
