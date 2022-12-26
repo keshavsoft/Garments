@@ -1,5 +1,5 @@
 import { jFStartFunc as CheckUserFuncsjFStartFunc } from "../../../CommonFuncs/LoginFuncs/CheckUserFuncs.js";
-import { FromNode } from "./ShowAll/PullData/FetchFuncs.js";
+import { StartFunc as PushDataStartFunc } from "./CreateNew/PushData/FetchFuncs.js";
 
 let jVarCommonKToken = "KToken";
 let jVarLocalStorageKeyName = "kUserName";
@@ -10,7 +10,7 @@ let jFStartFunc = async ({ inUserKey }) => {
         inKTokenKey: jVarCommonKToken
     });
 
-    await FromNode({
+    await PushDataStartFunc({
         inFolderName: "Masters",
         inFileName: "Items",
         inItemName: "ItemDetails"
