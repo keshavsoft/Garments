@@ -20,7 +20,7 @@ const server = http.createServer(app);
 
 var port = normalizePort(process.env.PORT || '4117');
 
-// let SubRouteJSONApi = require(`./Projects/${CommonProjectNameForJSONApi}/Routes`);
+let SubRouteJSONApi = require(`./Projects/${CommonProjectNameForJSONApi}/Routes`);
 
 // let SubRouteJSONUser = require(`./Projects/${CommonProjectNameForJSONUser}/Routes`);
 // let SubRouteJSONReports = require(`./Projects/${CommonProjectNameForJSONReports}/Routes`);
@@ -40,7 +40,7 @@ app.use(express.json({ limit: '100mb' }));
 //     //  res.sendFile(path.join(__dirname + `/public/pages/dashboards/default.html`));
 // });
 
-// app.use(`/${CommonProjectNameForJSONApi}`, SubRouteJSONApi);
+app.use(`/${CommonProjectNameForJSONApi}`, SubRouteJSONApi);
 
 // app.use(`/${CommonProjectNameForJSONUser}`, SubRouteJSONUser);
 // app.use(`/${CommonProjectNameForJSONReports}`, SubRouteJSONReports);

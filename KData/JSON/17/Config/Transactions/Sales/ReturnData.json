@@ -1,0 +1,914 @@
+{
+    "CashReceipt": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "CustomerOpenings": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "MetalReceipt": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "MetalReceiptsRateCut": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "SalesRateCut": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "SalesUnCut": {
+        "Create": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Alter": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    },
+                    "Update": {
+                        "ReturnData": {
+                            "DataType": "TableShowWithAlert",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        },
+        "Delete": {
+            "Table": {
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "TableShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "Vertical": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            },
+            "SubTable": {
+                "Footer": {
+                    "Save": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                },
+                "Row": {
+                    "Delete": {
+                        "ReturnData": {
+                            "DataType": "VerticalShow",
+                            "KTF": true
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
